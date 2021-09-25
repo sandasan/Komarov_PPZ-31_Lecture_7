@@ -1,0 +1,53 @@
+
+f
+java:S1301Z"KReplace this "switch" statement by "if" statements to increase readability.(ëş°»ûÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(ıù·§úÿÿÿÿ
+J
+java:S3740
+"/Provide the parametrized type for this generic.(Ôê‡üÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(ıçö÷
+J
+java:S3740"/Provide the parametrized type for this generic.(’åıáùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ğ£»Ëûÿÿÿÿ
+v
+java:S1488"aImmediately return this expression instead of assigning it to the temporary variable "sizeValue".(ü€à%
+}
+java:S1488""bImmediately return this expression instead of assigning it to the temporary variable "brandValue".(™œÑùÿÿÿÿÿ
+y
+java:S1488."^Immediately return this expression instead of assigning it to the temporary variable "fValue".(ş’Çşıÿÿÿÿ
+y
+java:S14884"^Immediately return this expression instead of assigning it to the temporary variable "fValue".(ãşµøÿÿÿÿÿ
+|
+java:S1488:"aImmediately return this expression instead of assigning it to the temporary variable "typeValue".(­âò»ùÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+o
+java:S1210I"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(‡ÕÔÏ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ó¬Ãÿ
+J
+java:S6212""/Declare this local variable with "var" instead.(™œÑùÿÿÿÿÿ
+h
+java:S3776N"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ñ¹£Ï
+J
+java:S6212Q"/Declare this local variable with "var" instead.(Ó°¬Ñøÿÿÿÿ
+Q
+java:S1119W";Refactor the code to remove this label and the need for it.(™ÃËÜ
+E
+java:S6212Y"/Declare this local variable with "var" instead.(‚İá
+<	java:S131Z""Add a default case to this switch.(ëş°»ûÿÿÿÿ
+J
+java:S6212\"/Declare this local variable with "var" instead.(¾ÙÌúÿÿÿÿ
+E
+java:S6212]"/Declare this local variable with "var" instead.(â¯Û®
+D
+java:S6212i"/Declare this local variable with "var" instead.(“œ€j
+J
+java:S6212j"/Declare this local variable with "var" instead.(Å¤Ûªÿÿÿÿÿ
+E
+java:S6212}"/Declare this local variable with "var" instead.(ÅÒœ¡
+J
+java:S6212~"/Declare this local variable with "var" instead.(Ã……ôıÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(¤’ØÜøÿÿÿÿ

@@ -1,0 +1,9 @@
+
+_
+java:S1192"IDefine a constant instead of duplicating this literal "Kingston" 3 times.(€©£ö
+c
+java:S1192	"HDefine a constant instead of duplicating this literal "Samsung" 3 times.(ä¯°ëýÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ð£»Ëûÿÿÿÿ
+Q
+java:S6212"/Declare this local variable with "var" instead.(¾þ©úýÿÿÿÿ8ö’‘Ø¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Éôáƒüÿÿÿÿ
